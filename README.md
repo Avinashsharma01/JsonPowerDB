@@ -1,5 +1,7 @@
 # Student Enrollment Form using JsonPowerDB
 
+![GitHub Logo](./Form_Image.png)
+
 ## Table of Contents
 
 1. [Description](#description)
