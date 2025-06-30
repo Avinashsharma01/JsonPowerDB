@@ -1,6 +1,6 @@
 # Student Enrollment Form using JsonPowerDB
 
-![GitHub Logo](./Form_Image.png)
+![Form Image](./image/Form_Image.png)
 
 ## Table of Contents
 
@@ -26,6 +26,8 @@ The form provides the following functionality:
 -   Dynamic form behavior based on whether a record exists or not
 
 ## Benefits of using JsonPowerDB
+
+![JsonPowerDB](./image/JsonPowerDB.png)
 
 -   **Simplest way to retrieve data in JSON format**: JsonPowerDB returns data in a ready-to-use JSON format.
 -   **Schema-free**: It's a schema-free database, making it easy to maintain and adapt to changing requirements.
